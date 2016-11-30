@@ -1,4 +1,4 @@
-The purpose of this project is to show how to build a url shortener in Scala using AKKA. This code is not meant to be production grade or ready to run (see use of the file system for persistence). You are welcome to it and to expand it to suit your needs.
+The purpose of this project is to show how to build a url shortener in Scala using AKKA. This code is not meant to be production grade. That said, it does run out of the box. You are welcome to it and to expand it to suit your needs.
 
 Known limitations and designed expansions
 
